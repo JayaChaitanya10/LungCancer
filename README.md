@@ -1,4 +1,4 @@
-# NeoLung: Lung cancer prediction using machine learning
+# LungCancer : Lung cancer prediction using machine learning
 
 ## Aim:
 
@@ -55,6 +55,4 @@ Out of all the algorithms so implemented, **Logistic Regression** performed the 
 
 **F1 score: 0.945054945054945**
 
-**Confusion Matrix:**
 
-![download](https://github.com/rohitinu6/Lung_Cancer_Prediction_Using_Machine_Learning/assets/113301503/b1e82b1c-2487-486a-b476-d34786148d40)
